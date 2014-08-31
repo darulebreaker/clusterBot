@@ -1,0 +1,14 @@
+{
+    "name": "galaxia-bot",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "twit": "*",
+        "mongodb": "*",
+        "monk": "*"
+
+
+    }
+
+
+}
